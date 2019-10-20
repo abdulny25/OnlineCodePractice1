@@ -41,7 +41,8 @@
         <connection>scm:git:https://github.com/chrishantha/sample-java-programs.git</connection>
         <tag>HEAD</tag>
     </scm>
-
+<dependency>
+</dependency>
     <modules>
         <module>base</module>
         <module>highcpu</module>
